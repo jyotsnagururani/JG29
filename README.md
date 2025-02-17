@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jyotsna Gururani!
 
-🚀 **Full-Stack Developer | MERN Stack | UI/UX Enthusiast**  
+🚀 **Full-Stack Developer | Java | UI/UX Enthusiast**  
 🎯 Passionate about building scalable web applications and interactive UIs.
 
 ---
